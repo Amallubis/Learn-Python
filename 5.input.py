@@ -4,7 +4,7 @@ print("Silahkan masukkan Nama Anda : ")
 nama = input()
 print('Nama Anda adalah {}'.format(nama))
 
-# Contoh untuk int
+# Contoh menggunakan integer di input
 
 print('Masukkan Angka ke 1 : ')
 a = int(input()) # tambahkan method integer 
